@@ -1,5 +1,5 @@
 # XML-RPC Server-Side Request Forgery: How I Discovered a Critical WordPress Vulnerability
-##BugDiscovery 2
+## BugDiscovery 2
 My mentor taught me about various WordPress-related vulnerabilities.
 
 That knowledge was the foundation. But then I started exploring deeper. Asking "what else can this do?"
